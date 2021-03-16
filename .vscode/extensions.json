@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "visualstudioexptteam.vscodeintellicode",
+        "zignd.html-css-class-completion",
+        "dbaeumer.vscode-eslint",
+        "msjsdiag.debugger-for-edge",
+        "firefox-devtools.vscode-firefox-debug",
+        "editorconfig.editorconfig",
+        "msjsdiag.debugger-for-chrome",
+        "remimarsal.prettier-now"
+    ]
+}
